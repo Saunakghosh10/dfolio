@@ -25,7 +25,7 @@ export const devProjects = [
     id: 1,
     name: "InfinityUi",
     description:
-      "InfinityUi is a component library designed to provide developers with highly customizable and reusable UI elements for modern web applications, focusing on performance, aesthetics, and ease of integration.",
+      "InfinityUi is a component library offering customizable, reusable UI elements for modern web apps, prioritizing performance and aesthetics.",
     technologies: ["Next.js", "Tailwind CSS", "Framer Motion"],
     github: "https://github.com/Saunakghosh10/infinity-ui",
     demo: "#",
@@ -36,7 +36,7 @@ export const devProjects = [
     id: 2,
     name: "Lumina",
     description:
-      "Built specifically for an AI startup, this website lets them present cutting-edge AI data processing solutions tailored to their customers' needs.",
+      "Lumina is a SaaS platform for organizing knowledge through content curation, note-taking, and AI-driven summarization, enhanced by advanced UI/UX for research and learning.",
     technologies: ["React", "Next.js", "Postgres"],
     github: "https://github.com/Saunakghosh10/lumina",
     demo: "#",
@@ -47,7 +47,7 @@ export const devProjects = [
     id: 3,
     name: "AiContentTools",
     description:
-      "AI Content Tools is a suite of utilities aimed at automating content creation and analysis. These tools generate actionable insights from data, automate social media post scheduling, and support the creation of video content from text for platforms like YouTube Shorts and TikTok. AI integration ensures accuracy, speed, and user-centric results.",
+      "AI Content Tools automate content creation, provide insights, and convert text into videos for platforms like YouTube Shorts and TikTok.",
     technologies: ["Next.js", "Postgres", "Framer Motion"],
     github: "https://github.com/Saunakghosh10/ai-content-tools",
     demo: "https://ai-content-manager.vercel.app/",
@@ -58,7 +58,7 @@ export const devProjects = [
     id: 4,
     name: "Calibrate",
     description:
-      "Calibrate is a scheduling and to-do list app designed for seamless daily planning. It features a dynamic, daily-refreshing schedule system connected to a database, ensuring flexibility and adaptability. Built with Next.js, Calibrate focuses on helping users efficiently manage tasks and priorities.",
+      "Calibrate is a dynamic scheduling app with daily-refreshing plans, built using Next.js to help users efficiently manage tasks.",
     technologies: ["Next.js", "Typescript", "Prisma"],
     github: "https://github.com/Saunakghosh10/calibrate",
     demo: "#",
