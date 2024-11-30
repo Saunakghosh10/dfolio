@@ -14,8 +14,8 @@ export const devProjects = [
     id: 0,
     name: "Pathforge",
     description:
-      "Portfolio website for Michael Odunsi, an experienced UI/UX designer crafting unique, user-friendly products and web experiences for Web3 founders and projects.",
-    technologies: ["React", "Tailwind CSS", "Framer Motion"],
+      "Forge Your Path to Programming Mastery",
+    technologies: ["Next.js", "Tailwind CSS", "Framer Motion"],
     github: "https://github.com/Saunakghosh10/Pathforge",
     demo: "https://pathforge.vercel.app/",
     image: require(".//../../public/projects/pathforge.png"),
@@ -25,8 +25,8 @@ export const devProjects = [
     id: 1,
     name: "InfinityUi",
     description:
-      "This is a website for a Fintech Startup to showcase their innovative solutions tailored to meet the evolving needs of their clients.",
-    technologies: ["React", "Tailwind CSS", "Framer Motion"],
+      "InfinityUi is a component library designed to provide developers with highly customizable and reusable UI elements for modern web applications, focusing on performance, aesthetics, and ease of integration.",
+    technologies: ["Next.js", "Tailwind CSS", "Framer Motion"],
     github: "https://github.com/Saunakghosh10/infinity-ui",
     demo: "#",
     image: require(".//../../public/projects/infinityui.png"),
@@ -37,7 +37,7 @@ export const devProjects = [
     name: "Lumina",
     description:
       "Built specifically for an AI startup, this website lets them present cutting-edge AI data processing solutions tailored to their customers' needs.",
-    technologies: ["React", "Next.js", "Prismic CMS"],
+    technologies: ["React", "Next.js", "Postgres"],
     github: "https://github.com/Saunakghosh10/lumina",
     demo: "#",
     image: require(".//../../public/projects/lumina.png"),
@@ -47,8 +47,8 @@ export const devProjects = [
     id: 3,
     name: "AiContentTools",
     description:
-      "A website built for a software startup and small business, to showcase their services and mark their online presence.",
-    technologies: ["React", "Tailwind CSS", "Framer Motion"],
+      "AI Content Tools is a suite of utilities aimed at automating content creation and analysis. These tools generate actionable insights from data, automate social media post scheduling, and support the creation of video content from text for platforms like YouTube Shorts and TikTok. AI integration ensures accuracy, speed, and user-centric results.",
+    technologies: ["Next.js", "Postgres", "Framer Motion"],
     github: "https://github.com/Saunakghosh10/ai-content-tools",
     demo: "https://ai-content-manager.vercel.app/",
     image: require(".//../../public/projects/aicontent.png"),
@@ -58,7 +58,7 @@ export const devProjects = [
     id: 4,
     name: "Calibrate",
     description:
-      "Flixify lets you seamlessly explore movies and TV series, add bookmarks, and search across all pages. It offers user authentication along with a theme switch.",
+      "Calibrate is a scheduling and to-do list app designed for seamless daily planning. It features a dynamic, daily-refreshing schedule system connected to a database, ensuring flexibility and adaptability. Built with Next.js, Calibrate focuses on helping users efficiently manage tasks and priorities.",
     technologies: ["Next.js", "Typescript", "Prisma"],
     github: "https://github.com/Saunakghosh10/calibrate",
     demo: "#",
